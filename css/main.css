@@ -1,0 +1,39 @@
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+    padding: 10px;
+    margin: 0;
+}
+
+#background {
+    background-color: #f4f0e8;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.left {
+    padding: 20px;
+}
+
+.center {
+    padding: 20px;
+    width: 50%;
+}
+
+.right {
+    padding: 20px;
+}
+
+a:link {
+    color: pink;
+}
+
+a:hover {
+    color: green;
+}
+
+a:visited {
+    color: yellow;
+}
